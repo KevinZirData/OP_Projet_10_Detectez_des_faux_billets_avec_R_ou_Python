@@ -1,6 +1,7 @@
 # OP_Projet_10_Detectez_des_faux_billets_avec_R_ou_Python
 Projet X : Détectez des faux billets avec R ou Python
 
+Scénario : 
 
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
 
@@ -21,4 +22,7 @@ Après avoir lu en détail le cahier des charges, vous vous préparez à vous re
 Lors de ma précédente mission, je me suis retrouvé avec un jeu de données comportant plein de valeurs manquantes, une vraie galère ! Mais j’ai eu de très bons résultats en utilisant une régression linéaire pour combler ces dernières. Ça te servira peut-être pour ta prochaine mission, qui sait ?
 Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent vers les bureaux de l’ONCFM pour commencer votre mission.
 
-![image](https://github.com/KevinZirData/OP_Projet_10_Detectez_des_faux_billets_avec_R_ou_Python/assets/142809013/e2359e8b-798b-4eb2-88af-3b78038261f6)
+Objectifs :
+
+![image](https://github.com/KevinZirData/OP_Projet_10_Detectez_des_faux_billets_avec_R_ou_Python/assets/142809013/87dd1948-97e9-44f4-9eca-1878c0df278c)
+
